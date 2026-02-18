@@ -8,12 +8,8 @@ using Amazon S3, AWS Lambda, AWS Glue, and Amazon QuickSight.
 ## 🏗 Architecture
 
 ```{=html}
-<!-- 
-PASTE YOUR ARCHITECTURE DIAGRAM BELOW
+<img width="1523" height="620" alt="Ux4GVVgIR2CGgxirKCSV_Data-pipeline-intermediate-projs drawio" src="https://github.com/user-attachments/assets/56df74a0-313c-4e10-aa3f-86eb1193f665" />
 
-Example:
-![Architecture Diagram](docs/architecture.png)
--->
 ```
 
 ------------------------------------------------------------------------
